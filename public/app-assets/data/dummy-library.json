@@ -1,0 +1,42 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "SHE Policy Statement VMA",
+        "category_libraries": "Level 1- Policy",
+        "category": "policy",
+        "title" : "SHE Policy Statement Visi Multi Artha",
+        "sop_number" : "VMA-SHE-PCY-130001",
+        "rev_no" : "00",
+        "issued" : "-",
+        "expired" : "22 Januari 2022",
+        "status" : "Updated",
+        "division_owner" : "Legal Corporate",
+        "remark" : "",
+        "business_unit_name" : "EMP - Visi Multi Artha",
+        "location" : "-",
+        "shared_function_name" : "Safety, Helth & Environment",
+        "file_path" : "file-manager/structure-emp.png",
+        "created_at": "14 Apr 2021, 8:43 PM"
+      },
+      {
+        "id": 1,
+        "name": "Pengumuman GCG 2014",
+        "category_libraries": "Level 1- Forms",
+        "category": "forms",
+        "title" : "Pengumuman Larangan Menerima dan atau memberi GCG",
+        "sop_number" : "VMA-SHE-PCY-130001",
+        "rev_no" : "00",
+        "issued" : "-",
+        "expired" : "22 Januari 2022",
+        "status" : "Updated",
+        "division_owner" : "Legal Corporate",
+        "remark" : "",
+        "business_unit_name" : "EMP - Visi Multi Artha",
+        "location" : "-",
+        "shared_function_name" : "Safety, Helth & Environment",
+        "file_path" : "file-manager/structure-emp.png",
+        "created_at": "14 Apr 2021, 8:43 PM"
+      }
+    ]
+  }

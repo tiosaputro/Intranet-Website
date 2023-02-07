@@ -1,0 +1,14 @@
+{
+    "data": [
+      {
+        "no_telp": "021",
+        "departement": "Divisi IT",
+        "pic": "Mr.Yulianto"
+      },
+      {
+        "no_telp": "023",
+        "departement": "Divisi Marketing",
+        "pic": "Mr.Bambang"
+      }
+    ]
+}
